@@ -1,0 +1,36 @@
+FORMAL LETTER WRITING GUIDELINES
+
+HEADER FORMAT
+- **Sender's Info**: Top Left (Name, Address, Contact).
+- **Date**: Below Sender's Info, usually with a gap.
+- **Recipient's Info**: Below Date, Left aligned (Name/Title, Company, Address).
+- **Subject Line**: Clear, concise, and bold. Starts with "Subject:".
+
+SALUTATIONS
+- Formal: "Dear Mr./Ms. [Last Name]," or "Dear [Full Name],"
+- Unknown Recipient: "To Whom It May Concern," or "Dear Sir/Madam,"
+
+OPENING
+State the purpose of the letter immediately in the first paragraph. Be direct but polite.
+Example: "I am writing to formally request..." or "I am writing to resign from my position as..."
+
+BODY PARAGRAPHS
+- Keep paragraphs short and focused on a single point.
+- Use professional and neutral tone.
+- Avoid slang or overly casual language.
+- Maintain clarity and brevity.
+
+CLOSING
+Reiterate the main point or call to action. express gratitude.
+Example: "Thank you for your time and consideration." or "I look forward to your positive response."
+
+SIGN-OFF
+- Formal: "Sincerely," or "Respectfully," or "Yours Application,"
+- Slightly less formal: "Best regards," or "Kind regards,"
+- Follow with your signature and printed name.
+
+COMMON LETTER TYPES
+- **Resignation**: State intention to resign, last working day, and offer help during transition.
+- **Cover Letter**: Highlight relevant skills and match them to the job description.
+- **Complaint**: State the problem clearly, provide evidence (dates, details), and state desired resolution.
+- **Recommendation**: Explain relationship, highlight strengths with examples, and give a strong endorsement.

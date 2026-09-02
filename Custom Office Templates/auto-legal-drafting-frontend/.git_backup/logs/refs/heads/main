@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 cf4dadeebef579be2f7c2b32731a6a6c86b60a03 Abhishek M O <moabhishek039@gmail.com> 1765756525 +0530	commit (initial): Initial frontend commit
+cf4dadeebef579be2f7c2b32731a6a6c86b60a03 cf4dadeebef579be2f7c2b32731a6a6c86b60a03 Abhishek M O <moabhishek039@gmail.com> 1765756958 +0530	Branch: renamed refs/heads/master to refs/heads/main
+cf4dadeebef579be2f7c2b32731a6a6c86b60a03 16779e335e0f37c6127e8f1c296f3e03a90e1d9f Abhishek M O <moabhishek039@gmail.com> 1765765308 +0530	commit: fix: Update vercel.json for CRA deployment compatibility
+16779e335e0f37c6127e8f1c296f3e03a90e1d9f 28881b0caba96feb281cd4f54ed67713cf8ce142 Abhishek M O <moabhishek039@gmail.com> 1765765463 +0530	commit: fix: Add .npmrc to resolve peer dependency conflicts on Vercel

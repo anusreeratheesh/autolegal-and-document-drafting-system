@@ -1,0 +1,25 @@
+FREELANCE AGREEMENT - INDIAN LEGAL CONTEXT
+
+INDEPENDENT CONTRACTOR STATUS
+The Freelancer is an independent contractor and not an employee of the Client. The Freelancer shall not be entitled to any employee benefits, including but not limited to provident fund, gratuity, insurance, or paid leave. The Client shall not be responsible for withholding taxes suitable for employees, but TDS (Tax Deducted at Source) may be deducted as per the Income Tax Act, 1961 for professional services.
+
+SCOPE OF WORK
+The Scope of Work should be clearly defined in an Annexure or Schedule to avoid scope creep. It must detail specific deliverables, timelines, and acceptance criteria. obtaining written approval for any changes to the scope is highly recommended.
+
+INTELLECTUAL PROPERTY (WORK FOR HIRE)
+Unless otherwise agreed in writing, all "Work Product" created by the Freelancer for the Client under this Agreement shall be considered "work made for hire" and the copyright shall vest with the Client upon full payment of the agreed fees. The Freelancer waives all moral rights in such works in favor of the Client.
+
+PAYMENT TERMS
+Payment terms should specified clearly (e.g., 50% advance, 50% upon completion). In India, it is common to specify that payments will be made within 15-30 days of invoice submission. Late payments may attract interest if mutually agreed. GST (Goods and Services Tax) applicability should be mentioned if the Freelancer's turnover exceeds the threshold.
+
+CONFIDENTIALITY
+The Freelancer agrees to keep all proprietary information of the Client confidential. This obligation usually survives the termination of the Agreement. (See NDA clauses).
+
+INDEMNIFICATION
+The Freelancer typically indemnifies the Client against claims of intellectual property infringement regarding the work delivered. The Client typically indemnifies the Freelancer against claims arising from materials provided by the Client.
+
+TERMINATION
+Either party may terminate this Agreement with a specified notice period (e.g., 15 days or 30 days) in writing. In case of material breach, immediate termination may be allowed. The Client is usually liable to pay for all work completed up to the date of termination.
+
+DISPUTE RESOLUTION
+Ideally, disputes should be resolved amicably. If not, they may be referred to arbitration under the Arbitration and Conciliation Act, 1996. The seat of arbitration and applicable courts (jurisdiction) should be clearly defined.

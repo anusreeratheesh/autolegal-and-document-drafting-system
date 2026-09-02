@@ -1,0 +1,19 @@
+EMPLOYMENT AGREEMENT - INDIAN LEGAL CONTEXT
+
+NON-COMPETE CLAUSE (SECTION 27 CONTRACT ACT)
+In India, Section 27 of the Indian Contract Act, 1872 makes agreements in restraint of trade void. Therefore, post-termination non-compete clauses are generally unenforceable in India, except in limited circumstances such as the sale of goodwill. However, non-compete clauses operative *during* the term of employment are generally valid and enforceable to protect the employer's interests.
+
+NON-SOLICITATION
+Non-solicitation clauses, which prevent a former employee from soliciting the employer's clients or employees for a certain period after termination, are generally viewed more favorably by Indian courts than non-compete clauses, provided they are reasonable in scope and duration.
+
+PROBATION PERIOD
+Standard probation periods in India range from 3 to 6 months. During probation, the notice period for termination is typically shorter (e.g., 7-15 days) compared to confirmed employment (e.g., 30-90 days).
+
+TERMINATION FOR CAUSE
+An employer may terminate employment for "cause" (misconduct, fraud, breach of contract) without notice or severance pay, subject to the principles of natural justice and internal disciplinary inquiries as required by law.
+
+GRATUITY
+Under the Payment of Gratuity Act, 1972, employees who have rendered continuous service of not less than 5 years are entitled to gratuity upon termination of employment.
+
+PROVIDENT FUND
+Compliance with the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 is mandatory for establishments with 20 or more employees. Both employer and employee contribute 12% of the basic wages + DA.

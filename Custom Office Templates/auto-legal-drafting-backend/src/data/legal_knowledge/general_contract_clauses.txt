@@ -1,0 +1,17 @@
+INDIAN CONTRACT ACT, 1872 - RELEVANT CLAUSES
+
+SECTION 27: AGREEMENT IN RESTRAINT OF TRADE, VOID
+Every agreement by which any one is restrained from exercising a lawful profession, trade or business of any kind, is to that extent void.
+Exception 1: Saving of agreement not to carry on business of which good-will is sold.
+
+SECTION 73: COMPENSATION FOR LOSS OR DAMAGE CAUSED BY BREACH OF CONTRACT
+When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it.
+
+SECTION 74: COMPENSATION FOR BREACH OF CONTRACT WHERE PENALTY STIPULATED FOR
+When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case may be, the penalty stipulated for.
+
+JURISDICTION CLAUSE (STANDARD)
+This Agreement shall be governed by and construed in accordance with the laws of India. Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the courts of competent jurisdiction.
+
+FORCE MAJEURE
+Neither party shall be liable for any failure or delay in performing their obligations under this Agreement where such failure or delay results from any cause that is beyond the reasonable control of that party, including but not limited to power failure, internet service provider failure, industrial action, civil unrest, fire, flood, storms, earthquakes, acts of terrorism, acts of war, governmental action or any other event that is beyond the control of the party in question.
