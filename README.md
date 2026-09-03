@@ -1,150 +1,158 @@
-# ⚖️ AutoLegal
+⚖️ AutoLegal – AI-Powered Legal Document Drafting & Documentation System
 
-## AI & RAG-Based Automated Legal Document System
+AutoLegal is an AI-powered web application designed to simplify and automate the creation, review, and management of legal documents. The system combines Generative AI and Retrieval-Augmented Generation (RAG) to generate context-aware legal documents based on user-provided information and relevant legal knowledge.
 
-AutoLegal is an AI-powered legal technology platform designed to automate the creation, analysis, and management of legal documents. The system uses **Artificial Intelligence (AI)** and **Retrieval-Augmented Generation (RAG)** to retrieve relevant legal information and generate context-aware legal documents.
+The platform supports document generation, lawyer review, PDF downloads, role-based access, and document history management.
 
-> ⚠️ **Disclaimer:** AutoLegal is designed to assist with legal document preparation and information retrieval. AI-generated content should be reviewed by qualified legal professionals before legal use.
+🌐 Live Demo
 
----
-
-## 🚀 Features
-
-* 🤖 AI-powered legal document generation
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔍 Legal information retrieval
-* 📝 Automated legal document drafting
-* 📄 Document customization and management
-* 👨‍⚖️ Lawyer and client support
-* 🔐 Secure authentication and authorization
-* 📂 Document storage and organization
-* 💬 AI-powered legal assistance
+🔗 AutoLegal: https://autolegal-drafting-system-frontend.vercel.app
 
 ---
 
-## 🏗️ Project Structure
+✨ Features
 
-```text
-AutoLegal/
+- 👤 User Authentication – Secure user registration and login.
+- 🔐 Secure Authentication – JWT-based authentication with bcrypt password hashing.
+- 👥 Role-Based Access Control – Separate access for Users, Lawyers, and Admins.
+- 🤖 AI-Powered Document Generation – Generate legal documents using Gemini AI.
+- 📚 Dynamic RAG – Retrieve relevant legal information to provide context for document generation.
+- 👨‍⚖️ Lawyer Review & Validation – Users can request professional review of generated documents.
+- 📄 PDF Generation & Download – Download generated legal documents in PDF format.
+- 🕒 Document History – Access and manage previously generated documents.
+- 🔗 REST API Integration – Seamless communication between frontend and backend using REST APIs.
+
+---
+
+📑 Supported Documents
+
+The system is designed to generate different types of legal documents, including:
+
+- 📃 Non-Disclosure Agreements (NDAs)
+- 💼 Employment Agreements
+- 📝 Contracts
+- 📄 Other customizable legal documents
+
+---
+
+🔄 How It Works
+
+👤 User Registration & Login
+            ↓
+📑 Select Document Type
+            ↓
+📝 Enter Required Information
+            ↓
+🔗 Frontend → REST API → Backend
+            ↓
+📚 Dynamic RAG retrieves relevant legal information
+            ↓
+🤖 Gemini AI generates the legal document
+            ↓
+📄 Generated document displayed to the user
+            ↓
+👨‍⚖️ Lawyer Review (Optional)
+            ↓
+⬇️ PDF Download & 🕒 Document History
+
+---
+
+🛠️ Technology Stack
+
+💻 Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+🗄️ Database
+
+- MongoDB Atlas
+
+🤖 AI & NLP
+
+- Gemini AI
+- Retrieval-Augmented Generation (RAG)
+- Dynamic Legal Information Retrieval
+
+🔒 Authentication & Security
+
+- JSON Web Tokens (JWT)
+- bcrypt
+- Role-Based Access Control (RBAC)
+
+---
+
+📁 Project Structure
+
+Auto-Legal-Drafting-System/
 │
-├── auto-legal-drafting-frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── auto-legal-drafting-backend/
-│   ├── src/
-│   ├── package.json
+├── frontend/
+│   ├── ...
 │   └── ...
 │
-├── .gitignore
+├── backend/
+│   ├── ...
+│   └── ...
+│
 └── README.md
-```
 
 ---
 
-## 🧠 How It Works
+🔑 Key Functionalities
 
-1. The user provides legal document requirements.
-2. The system processes the request using AI.
-3. The RAG system retrieves relevant legal information from the knowledge base.
-4. The AI uses the retrieved context to generate a relevant response or legal document draft.
-5. The generated document can be reviewed and managed by the user or legal professional.
+👤 1. Authentication & Authorization
 
----
+Users can securely register and log in to the platform. JWT-based authentication manages user sessions, while role-based authorization controls access to different system functionalities.
 
-## 🛠️ Technology Stack
+🤖 2. AI-Based Legal Document Generation
 
-### Frontend
+Users provide the required information through a structured form. The backend processes the information and uses Gemini AI to generate a relevant legal document.
 
-* Modern JavaScript-based web technologies
-* Responsive user interface
+📚 3. Dynamic RAG
 
-### Backend
+The system dynamically retrieves relevant legal information and provides it as contextual information to the AI model. This helps generate documents that are more relevant to the user's requirements.
 
-* Server-side application and APIs
-* Database integration
-* Authentication and authorization
+👨‍⚖️ 4. Lawyer Review
 
-### AI & RAG
+Users can request a lawyer to review and validate an AI-generated document before using it.
 
-* Artificial Intelligence
-* Retrieval-Augmented Generation (RAG)
-* Legal knowledge retrieval
-* Context-aware document generation
+📄 5. PDF Generation
+
+Generated legal documents can be converted into PDF format and downloaded by the user.
+
+🕒 6. Document History
+
+Users can access and manage their previously generated documents through the Document History feature.
 
 ---
 
-## ⚙️ Installation
+🚀 Future Enhancements
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/Abhishekk039/autolegal.git
-cd autolegal
-```
-
-### Frontend Setup
-
-```bash
-cd auto-legal-drafting-frontend
-npm install
-npm run dev
-```
-
-### Backend Setup
-
-Open a new terminal:
-
-```bash
-cd auto-legal-drafting-backend
-npm install
-npm start
-```
+- 💳 Online payment integration
+- 📑 Support for additional legal document types
+- 🌐 Multilingual legal document generation
+- 👨‍⚖️ Enhanced lawyer collaboration
+- 📱 Mobile application
+- 🔍 Improved legal knowledge retrieval
+- 📝 Document version control
+- ⚙️ Advanced document customization
 
 ---
 
-## 🔐 Environment Variables
+⚠️ Disclaimer
 
-Create a `.env` file in the required project directories.
-
-Example:
-
-```env
-DATABASE_URL=your_database_url
-JWT_SECRET=your_jwt_secret
-AI_API_KEY=your_ai_api_key
-```
-
-⚠️ **Never upload `.env` files or API keys to GitHub.**
+«Disclaimer: AutoLegal is developed for educational and demonstration purposes. The documents generated by this system are AI-generated and should not be considered a substitute for professional legal advice. All generated documents should be reviewed by a qualified legal professional before being used for actual legal purposes.»
 
 ---
 
-## 🎯 Project Goal
+👩‍💻 Author
 
-The goal of AutoLegal is to simplify and automate legal document preparation by combining **AI**, **RAG**, and modern web technologies. The platform aims to reduce repetitive manual work and provide efficient, context-aware assistance for legal document drafting.
-
----
-
-## 🔮 Future Enhancements
-
-* Multi-language legal document support
-* Advanced document analysis
-* Voice-based AI assistance
-* Legal document templates
-* Lawyer collaboration features
-* Improved RAG knowledge base
-* Document version control
-* AI-powered legal research assistance
-
----
-
-## 👨‍💻 Author
-
-ANUSREE RATHEESH
-
----
-
-## 📄 License
-
-This project is developed for educational and portfolio purposes.
+Developed as an AI and RAG-based Legal Technology Project, demonstrating the integration of modern web technologies, Generative AI, authentication, database management, and Retrieval-Augmented Generation.
