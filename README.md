@@ -4,9 +4,10 @@ AutoLegal is an AI-powered web application designed to simplify and automate the
 
 The platform supports document generation, lawyer review, PDF downloads, role-based access, and document history management.
 
-🌐 Live Demo
+🌐 Live Demo -🔗 AutoLegal: https://autolegal-drafting-system-frontend.vercel.app
 
-🔗 AutoLegal: https://autolegal-drafting-system-frontend.vercel.app
+<img width="853" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e50bd14-400d-40f6-8897-7442c8258f89" />
+
 
 ---
 
