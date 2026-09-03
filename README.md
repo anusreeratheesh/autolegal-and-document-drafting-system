@@ -36,8 +36,9 @@ The system is designed to generate different types of legal documents, including
 
 ---
 
-🔄 How It Works
+## 🔄 How It Works
 
+```text
 👤 User Registration & Login
             ↓
 📑 Select Document Type
@@ -54,7 +55,8 @@ The system is designed to generate different types of legal documents, including
             ↓
 👨‍⚖️ Lawyer Review (Optional)
             ↓
-⬇️ PDF Download & 🕒 Document History
+📄 PDF Download & 🕒 Document History
+```
 
 ---
 
