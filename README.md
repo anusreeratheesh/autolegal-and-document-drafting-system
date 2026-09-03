@@ -6,7 +6,7 @@ The platform supports document generation, lawyer review, PDF downloads, role-ba
 
 🌐 Live Demo -🔗 AutoLegal: https://autolegal-drafting-system-frontend.vercel.app
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/3e50bd14-400d-40f6-8897-7442c8258f89" />
+<img width="500" height="938" alt="image" src="https://github.com/user-attachments/assets/3e50bd14-400d-40f6-8897-7442c8258f89" />
 
 
 ---
