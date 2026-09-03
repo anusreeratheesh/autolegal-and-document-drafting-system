@@ -91,8 +91,9 @@ The system is designed to generate different types of legal documents, including
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
+```text
 Auto-Legal-Drafting-System/
 │
 ├── frontend/
@@ -104,6 +105,7 @@ Auto-Legal-Drafting-System/
 │   └── ...
 │
 └── README.md
+```
 
 ---
 
