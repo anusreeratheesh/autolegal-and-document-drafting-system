@@ -13,15 +13,15 @@ The platform supports document generation, lawyer review, PDF downloads, role-ba
 
 ✨ Features
 
-- 👤 User Authentication – Secure user registration and login.
-- 🔐 Secure Authentication – JWT-based authentication with bcrypt password hashing.
-- 👥 Role-Based Access Control – Separate access for Users, Lawyers, and Admins.
-- 🤖 AI-Powered Document Generation – Generate legal documents using Gemini AI.
-- 📚 Dynamic RAG – Retrieve relevant legal information to provide context for document generation.
-- 👨‍⚖️ Lawyer Review & Validation – Users can request professional review of generated documents.
-- 📄 PDF Generation & Download – Download generated legal documents in PDF format.
-- 🕒 Document History – Access and manage previously generated documents.
-- 🔗 REST API Integration – Seamless communication between frontend and backend using REST APIs.
+- User Authentication – Secure user registration and login.
+- Secure Authentication – JWT-based authentication with bcrypt password hashing.
+- Role-Based Access Control – Separate access for Users, Lawyers, and Admins.
+- AI-Powered Document Generation – Generate legal documents using Gemini AI.
+- Dynamic RAG – Retrieve relevant legal information to provide context for document generation.
+- Lawyer Review & Validation – Users can request professional review of generated documents.
+- PDF Generation & Download – Download generated legal documents in PDF format.
+- Document History – Access and manage previously generated documents.
+- REST API Integration – Seamless communication between frontend and backend using REST APIs.
 
 ---
 
@@ -29,10 +29,10 @@ The platform supports document generation, lawyer review, PDF downloads, role-ba
 
 The system is designed to generate different types of legal documents, including:
 
-- 📃 Non-Disclosure Agreements (NDAs)
-- 💼 Employment Agreements
-- 📝 Contracts
-- 📄 Other customizable legal documents
+- Non-Disclosure Agreements (NDAs)
+- Employment Agreements
+- Contracts
+- Other customizable legal documents
 
 ---
 
@@ -113,27 +113,27 @@ Auto-Legal-Drafting-System/
 
 🔑 Key Functionalities
 
-👤 1. Authentication & Authorization
+1. Authentication & Authorization
 
 Users can securely register and log in to the platform. JWT-based authentication manages user sessions, while role-based authorization controls access to different system functionalities.
 
-🤖 2. AI-Based Legal Document Generation
+2. AI-Based Legal Document Generation
 
 Users provide the required information through a structured form. The backend processes the information and uses Gemini AI to generate a relevant legal document.
 
-📚 3. Dynamic RAG
+3. Dynamic RAG
 
 The system dynamically retrieves relevant legal information and provides it as contextual information to the AI model. This helps generate documents that are more relevant to the user's requirements.
 
-👨‍⚖️ 4. Lawyer Review
+4. Lawyer Review
 
 Users can request a lawyer to review and validate an AI-generated document before using it.
 
-📄 5. PDF Generation
+5. PDF Generation
 
 Generated legal documents can be converted into PDF format and downloaded by the user.
 
-🕒 6. Document History
+6. Document History
 
 Users can access and manage their previously generated documents through the Document History feature.
 
@@ -141,15 +141,9 @@ Users can access and manage their previously generated documents through the Doc
 
 🚀 Future Enhancements
 
-- 💳 Online payment integration
-- 📑 Support for additional legal document types
-- 🌐 Multilingual legal document generation
-- 👨‍⚖️ Enhanced lawyer collaboration
-- 📱 Mobile application
-- 🔍 Improved legal knowledge retrieval
-- 📝 Document version control
-- ⚙️ Advanced document customization
-
+- Online payment integration
+- Support for additional legal document types
+- Multilingual legal document generation
 ---
 
 ⚠️ Disclaimer
